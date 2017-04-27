@@ -36,3 +36,7 @@ Song Name: I Want It That Way
 Artist: Backstreet Boys
 Album name: The Hits--Chapter One
 Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+Song Name: Californication
+Artist: Red Hot Chili Peppers
+Album name: Californication (Deluxe Version)
+Preview URL: https://p.scdn.co/mp3-preview/175ce440229d2fb5361756f3e68c9647b86a8eee?cid=null
