@@ -19,3 +19,20 @@ Song Name: I Want It That Way
 Artist: Backstreet Boys
 Album name: The Hits--Chapter One
 Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+Song Name: Make War
+Artist: From First To Last
+Album name: Make War
+Preview URL: https://p.scdn.co/mp3-preview/5ca5a685bb37844218d2798416b4934fe300dc62?cid=null
+Title: The Avengers
+Release Year: 2012
+IMDB Rating: 8.1
+Country: USA
+Language: English, Russian
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+Rotten Tomatoes Score: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/marvels_the_avengers/
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
