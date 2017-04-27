@@ -1,0 +1,30 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "week 10 homework",
+  "main": "liri.js",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "openurl": "^1.1.1",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickwoody86/liri-node-app.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "Richard Woodward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickwoody86/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/rickwoody86/liri-node-app#readme"
+}
