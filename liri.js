@@ -7,7 +7,7 @@ var fs = require('fs');
 var request = require('request');
 var command = process.argv[2]
 
-var client = new twitter({
+var client = new Twitter({
 	consumer_key: keys.twitterKeys.consumer_key,
 	consumer_secret: keys.twitterKeys.consumer_secret,
 	access_token_key: keys.twitterKeys.access_token_key,
